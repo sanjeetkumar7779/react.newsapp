@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.37b272f4.css","mappings":"AAAA,YACI,wBACJ,CACA,aACI,wBACJ","sources":["Assest/css/style.css"],"sourcesContent":[".background{\n    background-color: rgb(98, 0, 255);\n}\n.mybtn:hover{\n    background-color: rgb(250, 134, 67);\n}\n"],"names":[],"sourceRoot":""}
